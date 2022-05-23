@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "911348526139",
+    "project_id": "latihan-fcm-bodat",
+    "storage_bucket": "latihan-fcm-bodat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911348526139:android:5586d5e2017ad767c8c01e",
+        "android_client_info": {
+          "package_name": "com.latihanfcmandrew.latihan_fcm_andrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911348526139-9efr0e6emoincpg0rvn767bd1tkh1opg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.latihanfcmandrew.latihan_fcm_andrew",
+            "certificate_hash": "107fce8ba22b7cc3f87d0879bb7959091bbb8c0d"
+          }
+        },
+        {
+          "client_id": "911348526139-dk8ciooul8ll295qpksrr7qfc414kg1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoUh4XAt-S20W78Y0RF6Bbcr3wYhBFd-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911348526139-dk8ciooul8ll295qpksrr7qfc414kg1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
